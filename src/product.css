@@ -1,0 +1,13 @@
+.product-grid {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    background-color: gray;
+  }
+  .product {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+  }
+  
